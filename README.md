@@ -1,3 +1,8 @@
+this my circleci link
+https://app.circleci.com/pipelines/github/malak3ysa12/udacitypoject4/1/workflows/c96fd048-19aa-43fd-9f5d-8f74e952d140/jobs/1
+
+this is  sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. 
+that serves out predictions (inference) about housing prices through API calls. This project could be extended to any pre-trained machine learning model, such as those for image recognition and data labeling.
 
 ### Project Tasks
 
